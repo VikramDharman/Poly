@@ -2,7 +2,7 @@ package poly.org;
 
 public class Details {
 		//method Overloading
-		//datatype
+		//datatyp
 		public void empid(int empid, double sal, String empname) {
 			System.out.println("Empolyee Id: "+empid+"\nSalary :"+sal+"\nName :"+empname);
 		}
